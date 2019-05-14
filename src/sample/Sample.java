@@ -5,7 +5,7 @@
  */
 package sample;
 
-/**
+/**my first class
  *
  * @author Moeed,2019
  */
