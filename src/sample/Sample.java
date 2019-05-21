@@ -7,15 +7,23 @@ package sample;
 
 /**my first class
  *
- * @author Moeed,2019
+ * @author Muneeb,2019
+ * I am learning GitHub
  */
 public class Sample {
+    
+    public String color;
+    public char letter;
+    
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Write whatever you want and enjoy!!!!!!!
+        public String getColor
+               
+      
     }
     
 }
