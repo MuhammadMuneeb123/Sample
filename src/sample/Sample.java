@@ -21,7 +21,7 @@ public class Sample {
      */
     public static void main(String[] args) {
         // Write whatever you want and enjoy!!!!!!!
-        public String getColor
+        public String getColor () {
                
       
     }
